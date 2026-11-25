@@ -1,3 +1,5 @@
+# 笔记同步更新在看雪论坛
+https://bbs.kanxue.com/thread-293408-1.htm
 ## Linux-1
 
 ```c
